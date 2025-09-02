@@ -1,6 +1,6 @@
 env/
 __pycache__/
-pkidata/
+labs/ssl-certificates/pkidata/
 *.pem
 *.der
 *.key
